@@ -1,4 +1,4 @@
-#Library Management System
+*Library Management System*
  
 A comprehensive Java-based application utilizing CRUD operations to streamline library operations. Key features include:
  
